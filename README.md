@@ -15,5 +15,6 @@ I am also a core contributor to [PowerServe](https://github.com/powerserve-proje
 
 ## News
 
+- 🎉 July 2026: One paper accepted at **SOSP 2026**.
 - 🎉 Apr 2026: Our paper **Inference in the Shadows: Taming Memory Bandwidth Contention in Mobile LLM Inference with Sereno** has been accepted to **OSDI 2026**.
 - 🎉 Aug 2025: Our paper **SwitchFS: Asynchronous Metadata Updates for Distributed Filesystems with In-Network Coordination** has been accepted to **EuroSys 2026**.
